@@ -11,6 +11,7 @@ We will working on the Leetcode questions! Unit tests are recommended.
 public class solutuion{
 
   public int removeDupulcates(int[] nums ){
+     
       int start = 0;
       
       for(int i = 1; i < nums.length;i++){
@@ -20,4 +21,5 @@ public class solutuion{
       }
       return start + 1;
   }
+  
 }
