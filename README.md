@@ -21,5 +21,4 @@ public class solutuion{
       }
       return start + 1;
   }
-  
 }
