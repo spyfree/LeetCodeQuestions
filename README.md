@@ -5,7 +5,9 @@ We will working on the Leetcode questions! Unit tests are recommended.
 
 ### Questions table
 | question      | unit test      | Runtime beat   | Author        |
-| Remove Duplicates from Sorted Array |:161 cases: |:54.77%: | Cory:      |
+| Remove Duplicates from Sorted Array |:161 cases: |:54.77%: | Cory:|
+
+
 public class solutuion{
   public int removeDupulcates(int[] nums ){
       int start = 0;
